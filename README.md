@@ -1,4 +1,4 @@
-<h1 align="center">Ankit Singh</h1>
+<h1 align="center">Ankit Kumar Singh</h1>
 <h3 align="center">Machine Learning Engineer | Backend Developer</h3>
 
 <p align="center">
@@ -62,34 +62,33 @@ Data analysis project involving feature engineering and predictive modeling.
 
 ---
 
+
 # Tech Stack
 
 ## Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java" />
-</p>
+- Python  
+- Java  
 
 ## Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
-</p>
+- PyTorch  
+- TensorFlow  
 
 ## Data Analysis
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
 
 ## Backend
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
-</p>
+- Django  
+- FastAPI  
+- Flask  
 
 ## Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" />
-</p>
+- Git  
+- Docker  
+- VS Code  
+- Antigravity
 
 
 # GitHub Stats
