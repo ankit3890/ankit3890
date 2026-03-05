@@ -18,18 +18,24 @@ Building production-ready AI systems and scalable backend architectures.
 Aspiring Machine Learning Engineer and Backend Developer focused on designing scalable AI systems and production-grade machine learning pipelines.
 
 ### Current Work
+- Data Analysis
 - End-to-end Machine Learning projects
 - Production ML pipelines
-- Backend API development
+- Deep Learning & NLP
+
 
 ### Currently Learning
 - Advanced Machine Learning
 - Feature Engineering
-- Django & FastAPI
-- Java & Spring Boot
+- Deep Learning
+- LLMs & GenAI
+- JAVA
+
 
 ### Interests
+- Data Analysis
 - Machine Learning & Deep Learning
+- LLMs & GenAI
 - Backend architecture
 - REST API design
 - AI product development
@@ -60,12 +66,19 @@ Data analysis project involving feature engineering and predictive modeling.
 
 ## Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ## Machine Learning
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+</p>
+
+## Data Analysis
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,numpy,matplotlib" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ## Backend
