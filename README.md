@@ -66,29 +66,19 @@ Data analysis project involving feature engineering and predictive modeling.
 # Tech Stack
 
 ## Languages
-- Python  
-- Java  
+Python, Java
 
 ## Machine Learning
-- PyTorch  
-- TensorFlow  
+PyTorch, TensorFlow, Scikit-learn
 
 ## Data Analysis
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
+NumPy, Pandas, Matplotlib, Seaborn
 
 ## Backend
-- Django  
-- FastAPI  
-- Flask  
+Django, FastAPI, Flask
 
 ## Tools
-- Git  
-- Docker  
-- VS Code  
-- Antigravity
+Git, Docker, VS Code, Antigravity
 
 
 # GitHub Stats
