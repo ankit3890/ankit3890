@@ -108,7 +108,7 @@ Git, Docker, VS Code, Antigravity
 </a>
 
 <a href="https://www.kaggle.com/ankit3890">
-<img src="https://skillicons.dev/icons?i=kaggle" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="mailto:ankitidea3890@gmail.com">
