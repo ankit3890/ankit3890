@@ -40,6 +40,7 @@ Aspiring Machine Learning Engineer and Backend Developer focused on designing sc
 - REST API design
 - AI product development
 
+---
 
 ### End-to-End ML Pipeline
 Production-ready ML pipeline including data validation, feature engineering, model training, and deployment.
