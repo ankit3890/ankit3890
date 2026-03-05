@@ -103,11 +103,16 @@ Git, Docker, VS Code, Antigravity
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="https://instagram.com/alex_245a">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://www.kaggle.com/ankit3890">
+<img src="https://skillicons.dev/icons?i=kaggle" />
+</a>
+
 <a href="mailto:ankitidea3890@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://instagram.com/alex_245a">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
 </p>
