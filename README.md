@@ -1,65 +1,120 @@
-# About Me
-Hi, I'm Ankit Singh.
+<h1 align="center">Ankit Singh</h1>
+<h3 align="center">Machine Learning Engineer | Backend Developer</h3>
 
-Aspiring Machine Learning Engineer and Backend Developer focused on building production-ready AI systems and scalable backend architectures.
-
-## Current Focus
-- End-to-end Machine Learning projects
-- Production-grade ML pipelines
-
-## Currently Learning
-- Advanced Machine Learning and Feature Engineering
-- Django and FastAPI
-- Java and Spring Boot
-
-## Open to Collaborate On
-- Machine Learning and Deep Learning projects
-- Backend API development
-- Open-source contributions
-
-## Areas of Interest
-- Python, Machine Learning, and Deep Learning
-- REST API development
-- Backend architecture and system design
-
-## Additional Note
-I enjoy transforming ideas into real-world AI products and scalable software systems.
+<p align="center">
+Building production-ready AI systems and scalable backend architectures.
+</p>
 
 ---
 
-# Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex_245a)
+## Contribution Graph
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-singh-927a81381)
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit3890&theme=github-dark)](https://github.com/ankit3890)
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitidea3890@gmail.com)
+---
+
+# About Me
+
+Aspiring Machine Learning Engineer and Backend Developer focused on designing scalable AI systems and production-grade machine learning pipelines.
+
+### Current Work
+- End-to-end Machine Learning projects
+- Production ML pipelines
+- Backend API development
+
+### Currently Learning
+- Advanced Machine Learning
+- Feature Engineering
+- Django & FastAPI
+- Java & Spring Boot
+
+### Interests
+- Machine Learning & Deep Learning
+- Backend architecture
+- REST API design
+- AI product development
 
 ---
 
 # Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+## Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+</p>
+
+## Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+</p>
+
+## Backend
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
+</p>
+
+## Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" />
+</p>
+
+### End-to-End ML Pipeline
+Production-ready ML pipeline including data validation, feature engineering, model training, and deployment.
+
+**Tech:** Python, Scikit-learn, MLflow, FastAPI
 
 ---
 
-# GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=ankit3890&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+### REST API for ML Models
+FastAPI based backend serving trained ML models with scalable endpoints.
 
-![](https://nirzak-streak-stats.vercel.app/?user=ankit3890&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit3890&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Tech:** FastAPI, Docker, Python
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=ankit3890&icon=0&color=0)
+### Data Analysis System
+Data analysis project involving feature engineering and predictive modeling.
+
+**Tech:** Pandas, NumPy, Matplotlib, Scikit-learn
+
+---
+
+# Pinned Projects
+
+| Project | Description | Tech |
+|-------|-------------|------|
+| ML Pipeline | End-to-end ML system | Python, MLflow |
+| ML API | Model serving backend | FastAPI |
+| Data Analysis | Feature engineering and prediction | Pandas, Sklearn |
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankit3890&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit3890&theme=github-dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit3890&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/ankit-kumar-singh-927a81381">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ankitidea3890@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://instagram.com/alex_245a">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
