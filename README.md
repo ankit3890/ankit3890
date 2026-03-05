@@ -34,6 +34,26 @@ Aspiring Machine Learning Engineer and Backend Developer focused on designing sc
 - REST API design
 - AI product development
 
+
+### End-to-End ML Pipeline
+Production-ready ML pipeline including data validation, feature engineering, model training, and deployment.
+
+**Tech:** Python, Scikit-learn, MLflow, FastAPI
+
+---
+
+### REST API for ML Models
+FastAPI based backend serving trained ML models with scalable endpoints.
+
+**Tech:** FastAPI, Docker, Python
+
+---
+
+### Data Analysis System
+Data analysis project involving feature engineering and predictive modeling.
+
+**Tech:** Pandas, NumPy, Matplotlib, Scikit-learn
+
 ---
 
 # Tech Stack
@@ -58,36 +78,6 @@ Aspiring Machine Learning Engineer and Backend Developer focused on designing sc
 <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" />
 </p>
 
-### End-to-End ML Pipeline
-Production-ready ML pipeline including data validation, feature engineering, model training, and deployment.
-
-**Tech:** Python, Scikit-learn, MLflow, FastAPI
-
----
-
-### REST API for ML Models
-FastAPI based backend serving trained ML models with scalable endpoints.
-
-**Tech:** FastAPI, Docker, Python
-
----
-
-### Data Analysis System
-Data analysis project involving feature engineering and predictive modeling.
-
-**Tech:** Pandas, NumPy, Matplotlib, Scikit-learn
-
----
-
-# Pinned Projects
-
-| Project | Description | Tech |
-|-------|-------------|------|
-| ML Pipeline | End-to-end ML system | Python, MLflow |
-| ML API | Model serving backend | FastAPI |
-| Data Analysis | Feature engineering and prediction | Pandas, Sklearn |
-
----
 
 # GitHub Stats
 
