@@ -76,7 +76,7 @@ Data analysis project involving feature engineering and predictive modeling.
 
 ## Data Analysis
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,numpy,matplotlib" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
