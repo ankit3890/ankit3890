@@ -36,8 +36,6 @@ Aspiring Machine Learning Engineer and Backend Developer focused on designing sc
 - Data Analysis
 - Machine Learning & Deep Learning
 - LLMs & GenAI
-- Backend architecture
-- REST API design
 - AI product development
 
 ---
