@@ -25,7 +25,7 @@ Aspiring Machine Learning Engineer and Backend Developer focused on designing sc
 
 
 ### Currently Learning
-- Advanced Machine Learning
+- Advanced Machine Learning.
 - Feature Engineering
 - Deep Learning
 - LLMs & GenAI
