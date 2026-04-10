@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | Backend Developer</h3>
 
 <p align="center">
-Building production-ready AI systems and scalable backend architectures.
+Building production-ready AI systems and scalable backend architectures..
 </p>
 
 ---
