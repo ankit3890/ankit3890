@@ -15,13 +15,14 @@ Aspiring Machine Learning Engineer and Backend Developer focused on designing sc
 ### Currently Learning
 - LLMs, AgenticAI
 - JAVA
+- SpringBoot, SpringAI
 
 ### Interests
 - Data Analysis
 - Machine Learning & Deep Learning
-- LLMs & GenAI
+- LLMs, GenAI, AgenticAI
 - AI product development
-- spring Boot
+- Backend development
 
 ---
 
