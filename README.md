@@ -33,13 +33,6 @@ Production-ready ML pipeline including data validation, feature engineering, mod
  
 ---
 
-### REST API for ML Models
-FastAPI based backend serving trained ML models with scalable endpoints.
-
-**Tech:** Docker, Python, SpringAI
-
----
-
 ### Data Analysis System
 Data analysis project involving feature engineering and predictive modeling.
 
