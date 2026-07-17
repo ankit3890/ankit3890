@@ -1,8 +1,9 @@
 <center>
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Kumar+Singh;AI+%26+Machine+Learning+Engineer+And+Backend+Developer;Building+Intelligent+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Kumar+Singh;AI+%26+Machine+Learning+Engineer+And+Backend+Developer;Building+Intelligent+Applications" />
 </center>
----
 
+
+---
 # About Me
 
 Aspiring Machine Learning Engineer and Backend Developer focused on designing scalable AI systems and production-grade machine learning pipelines.
