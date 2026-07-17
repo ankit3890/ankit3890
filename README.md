@@ -18,46 +18,41 @@ Building production-ready AI systems and scalable backend architectures..
 Aspiring Machine Learning Engineer and Backend Developer focused on designing scalable AI systems and production-grade machine learning pipelines.
 
 ### Current Work
+- GenAI/ AgenticAI/ ML/DL
 - Data Analysis
 - End-to-end Machine Learning projects
-- Production ML pipelines
-- Deep Learning & NLP
-
 
 ### Currently Learning
-- Advanced Machine Learning.
-- Feature Engineering
-- Deep Learning
-- LLMs & GenAI
+- LLMs
 - JAVA
-
 
 ### Interests
 - Data Analysis
 - Machine Learning & Deep Learning
 - LLMs & GenAI
 - AI product development
+- spring Boot
 
 ---
 
 ### End-to-End ML Pipeline
 Production-ready ML pipeline including data validation, feature engineering, model training, and deployment.
 
-**Tech:** Python, Scikit-learn, MLflow, FastAPI
-
+**Tech:** Python, PyTorch, Scikit-learn, MLflow,
+ 
 ---
 
 ### REST API for ML Models
 FastAPI based backend serving trained ML models with scalable endpoints.
 
-**Tech:** FastAPI, Docker, Python
+**Tech:** Docker, Python, SpringAI
 
 ---
 
 ### Data Analysis System
 Data analysis project involving feature engineering and predictive modeling.
 
-**Tech:** Pandas, NumPy, Matplotlib, Scikit-learn
+**Tech:** Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch
 
 ---
 
@@ -68,13 +63,13 @@ Data analysis project involving feature engineering and predictive modeling.
 Python, Java
 
 ## Machine Learning
-PyTorch, TensorFlow, Scikit-learn
+PyTorch, Scikit-learn
 
 ## Data Analysis
 NumPy, Pandas, Matplotlib, Seaborn
 
 ## Backend
-Django, FastAPI, Flask
+SpringBoot, SpringAI
 
 ## Tools
 Git, Docker, VS Code, Antigravity
