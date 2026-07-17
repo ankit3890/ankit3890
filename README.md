@@ -13,7 +13,7 @@ Aspiring Machine Learning Engineer and Backend Developer focused on designing sc
 - End-to-end Machine Learning projects
 
 ### Currently Learning
-- LLMs
+- LLMs, AgenticAI
 - JAVA
 
 ### Interests
