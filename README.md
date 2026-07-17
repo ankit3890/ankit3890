@@ -1,16 +1,6 @@
 <h1 align="center">Ankit Kumar Singh</h1>
 <h3 align="center">Machine Learning Engineer | Backend Developer</h3>
 
-<p align="center">
-Building production-ready AI systems and scalable backend architectures..
-</p>
-
----
-
-## Contribution Graph
-
-[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit3890&theme=github-dark)](https://github.com/ankit3890)
-
 ---
 
 # About Me
