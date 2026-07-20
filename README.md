@@ -24,21 +24,7 @@ Aspiring Machine Learning Engineer and Backend Developer focused on designing sc
 - LLMs, GenAI, AgenticAI
 - AI product development
 - Backend development
-
----
-
-### End-to-End ML Pipeline
-Production-ready ML pipeline including data validation, feature engineering, model training, and deployment.
-
-**Tech:** Python, PyTorch, Scikit-learn, MLflow,
- 
----
-
-### Data Analysis System
-Data analysis project involving feature engineering and predictive modeling.
-
-**Tech:** Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch
-
+- 
 ---
 
 
@@ -52,6 +38,9 @@ PyTorch, Scikit-learn
 
 ## Data Analysis
 NumPy, Pandas, Matplotlib, Seaborn
+
+## GenAI & AgenticAI
+Langchain, Langgraph, Pydantic
 
 ## Backend
 SpringBoot, SpringAI
