@@ -16,13 +16,12 @@ Aspiring Machine Learning Engineer and Backend Developer focused on designing sc
 ### Currently Learning
 - LLMs, AgenticAI
 - JAVA
-- SpringBoot, SpringAI
+- SpringBoot, FastAPI
 
 ### Interests
 - Data Analysis
 - Machine Learning & Deep Learning
 - LLMs, GenAI, AgenticAI
-- AI product development
 - Backend development
 - 
 ---
@@ -40,10 +39,10 @@ PyTorch, Scikit-learn
 NumPy, Pandas, Matplotlib, Seaborn
 
 ## GenAI & AgenticAI
-Langchain, Langgraph, Pydantic
+Langchain, Langgraph, Pydantic, FastAPI
 
 ## Backend
-SpringBoot, SpringAI
+SpringBoot, FastAPI
 
 ## Tools
 Git, Docker, VS Code, Antigravity
