@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ankit%20Kumar%20Singh&fontSize=50&fontColor=ffffff&color=0:1a1a2e,50:16213e,100:7AA2F7&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Kumar+Singh;AI+%26+Engineer+%7C+Backend+Developer;Building+Intelligent%2C+Agentic+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Kumar+Singh;AI+%26+ML+Engineer+%7C+Backend+Developer;Building+Intelligent%2C+Agentic+Applications" />
 
 </div>
 
