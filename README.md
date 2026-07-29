@@ -1,84 +1,83 @@
-<center>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Kumar+Singh;AI+%26+Machine+Learning+Engineer+And+Backend+Developer;Building+Intelligent+Applications" />
-</center>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Kumar+Singh;AI+%26+ML+Engineer+%7C+Backend+Developer;Building+Intelligent%2C+Agentic+Applications" />
 
----
-# About Me
+<br/>
 
-Aspiring Machine Learning Engineer and Backend Developer focused on designing scalable AI systems and production-grade machine learning pipelines.
+<img src="https://komarev.com/ghpvc/?username=ankit3890&style=flat-square&color=7AA2F7" alt="profile views" />
 
-### Current Work
-- GenAI/ AgenticAI/ ML/DL
-- Data Analysis
-- End-to-end Machine Learning projects
+</div>
 
-### Currently Learning
-- LLMs, AgenticAI
-- JAVA
-- SpringBoot, FastAPI
+<br/>
 
-### Interests
-- Data Analysis
-- Machine Learning & Deep Learning
-- LLMs, GenAI, AgenticAI
-- Backend development
-- 
----
+## About Me
 
+Aspiring **Machine Learning Engineer** and **Backend Developer**, focused on designing scalable AI systems and production-grade ML pipelines — with a growing focus on **LLMs and Agentic AI**.
 
-# Tech Stack
+- Currently building **GenAI / Agentic AI / ML–DL** projects and end-to-end data pipelines
+- Currently leveling up in **LLMs, Agentic AI, Java, and Spring Boot / FastAPI**
+- Interests: Data Analysis · Machine Learning & Deep Learning · GenAI & Agentic AI · Backend Development
 
-## Languages
-Python, Java
+<br/>
 
-## Machine Learning
-PyTorch, Scikit-learn
+## Tech Stack
 
-## Data Analysis
-NumPy, Pandas, Matplotlib, Seaborn
+<div align="center">
 
-## GenAI & AgenticAI
-Langchain, Langgraph, Pydantic, FastAPI
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java" />
 
-## Backend
-SpringBoot, FastAPI
+**Machine Learning & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 
-## Tools
-Git, Docker, VS Code, Antigravity
+**GenAI & Agentic AI**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,fastapi" />
 
-# GitHub Stats
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,vscode" />
 
-<p align="center">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankit3890&show_icons=true&theme=github_dark"/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit3890&theme=github-dark"/>
+## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit3890&layout=compact&theme=github_dark"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ankit3890&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit3890&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
-</p>
+<br/>
 
----
+## Connect With Me
 
-# Connect With Me
+<div align="center">
 
-<p>
 <a href="https://linkedin.com/in/ankit-kumar-singh-927a81381">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
 <a href="https://instagram.com/alex_245a">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-
-<a href="https://www.kaggle.com/ankit3890">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
 <a href="mailto:ankitidea3890@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<a href="https://www.kaggle.com/ankit3890">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="46"/>
+</a>
 
-</p>
+</div>
