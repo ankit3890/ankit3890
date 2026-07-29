@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Kumar+Singh;AI+%26+ML+Engineer+%7C+Backend+Developer;Building+Intelligent%2C+Agentic+Applications" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ankit%20Kumar%20Singh&fontSize=50&fontColor=ffffff&color=0:1a1a2e,50:16213e,100:7AA2F7&animation=fadeIn"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ankit3890&style=flat-square&color=7AA2F7" alt="profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Kumar+Singh;AI+%26+Engineer+%7C+Backend+Developer;Building+Intelligent%2C+Agentic+Applications" />
 
 </div>
 
@@ -12,11 +10,15 @@
 
 ## About Me
 
+<img align="right" width="320" src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAd/coding-boy-coding.gif"/>
+
 Aspiring **Machine Learning Engineer** and **Backend Developer**, focused on designing scalable AI systems and production-grade ML pipelines — with a growing focus on **LLMs and Agentic AI**.
 
 - Currently building **GenAI / Agentic AI / ML–DL** projects and end-to-end data pipelines
 - Currently leveling up in **LLMs, Agentic AI, Java, and Spring Boot / FastAPI**
 - Interests: Data Analysis · Machine Learning & Deep Learning · GenAI & Agentic AI · Backend Development
+
+<br clear="right"/>
 
 <br/>
 
@@ -56,10 +58,14 @@ Aspiring **Machine Learning Engineer** and **Backend Developer**, focused on des
 
 ## GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ankit3890&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit3890&theme=tokyonight&hide_border=true" height="165" />
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit3890&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="60%" src="https://streak-stats.demolab.com?user=ankit3890&theme=tokyonight&hide_border=true"/>
+<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit3890&theme=tokyonight"/>
+</p>
 
 <br/>
 
@@ -79,5 +85,15 @@ Aspiring **Machine Learning Engineer** and **Backend Developer**, focused on des
 <a href="https://www.kaggle.com/ankit3890">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="46"/>
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**"Building today, scaling tomorrow."**
+
+<img src="https://komarev.com/ghpvc/?username=ankit3890&label=Profile+Views&color=7AA2F7&style=flat" alt="profile views" />
 
 </div>
