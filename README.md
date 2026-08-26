@@ -59,11 +59,11 @@ Aspiring **Machine Learning Engineer** and **Backend Developer**, focused on des
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit3890&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexx3890&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=ankit3890&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=Alexx3890&theme=tokyonight&hide_border=true"/>
 <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit3890&theme=tokyonight"/>
 </p>
 
@@ -94,6 +94,6 @@ Aspiring **Machine Learning Engineer** and **Backend Developer**, focused on des
 
 **"Building today, scaling tomorrow."**
 
-<img src="https://komarev.com/ghpvc/?username=ankit3890&label=Profile+Views&color=7AA2F7&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Alexx3890&label=Profile+Views&color=7AA2F7&style=flat" alt="profile views" />
 
 </div>
