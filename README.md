@@ -56,19 +56,6 @@ Aspiring **Machine Learning Engineer** and **Backend Developer**, focused on des
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexx3890&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=Alexx3890&theme=tokyonight&hide_border=true"/>
-<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit3890&theme=tokyonight"/>
-</p>
-
-<br/>
-
 ## Connect With Me
 
 <div align="center">
